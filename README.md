@@ -3,4 +3,5 @@ Chương trình cho phép người dùng tải lên một ảnh (màu hoặc đ�
 
 Chương trình được chạy bằng command line với cú pháp như sau: 
 
+
 <tenchuongtrinh> <duongdantaptinanh> <malenh> <thamso>
